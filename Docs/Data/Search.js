@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-To-Edinburgh/Brief history and background.htm'],s:['1','ride'],p:[['1',6],['engaging',11],['of',15],['trace',7]]});
