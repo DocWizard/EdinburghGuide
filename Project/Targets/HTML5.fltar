@@ -24,7 +24,9 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Publish="true" />
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true"
+      IsResource="false" />
   </Destinations>
   <MicroContentSearch>
     <FeaturedSnippets
