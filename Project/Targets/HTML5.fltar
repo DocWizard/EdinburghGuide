@@ -16,7 +16,7 @@
   MenuSkin="/Project/Skins/Topics-Menu.flskn"
   FaviconSkin="/Project/Skins/Favicon.flskn"
   MasterStylesheetOverride="true"
-  GetLatestBeforeCompile="false">
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
