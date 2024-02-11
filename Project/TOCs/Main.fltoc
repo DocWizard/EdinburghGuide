@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Intro/Printed_Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.PrintOnly,Default.Print"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="pageLayout"
+    PageType="title"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl" />
+  <TocEntry
+    Title="Frontmatter"
+    Link="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    conditions="Default.PrintOnly,Default.Print"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false" />
+  <TocEntry
+    Title="Introduction"
+    conditions="Default.Online,Default.Print"
+    StartSection="false"
+    Link="/Content/A-Introduction-To-Edinburgh/Introduction To Edinburgh.htm"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    BreakType="chapter"
+    PageNumberReset="reset"
+    PageNumber="1">
+    <TocEntry
+      Title="Brief history and background of the city"
+      Link="/Content/A-Introduction-To-Edinburgh/Brief history and background.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+    <TocEntry
+      Title="Overview of Edinburgh's cultural significance and attractions"
+      Link="/Content/A-Introduction-To-Edinburgh/Overview of Edinburgh's cultural.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Transportation"
+    conditions="Default.Online,Default.Print"
+    StartSection="false"
+    Link="/Content/B-Getting-Around/Getting Around.htm"
+    BreakType="chapter"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Key areas and neighborhoods"
+      Link="/Content/B-Getting-Around/Key areas and neighborhoods.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+    <TocEntry
+      Title="Transportation options"
+      Link="/Content/B-Getting-Around/Transportation options.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="History"
+    conditions="Default.Online,Default.Print"
+    StartSection="false"
+    Link="/Content/C-Historic-Edinburgh/Historic Edinburgh.htm"
+    BreakType="chapter"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="Edinburgh Castle: A Tapestry of History, Architecture, and Splendid Exhibits"
+      Link="/Content/C-Historic-Edinburgh/Edinburgh Castle A Tapestry.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+    <TocEntry
+      Title="Royal Mile: Exploring the heart of the Old Town"
+      Link="/Content/C-Historic-Edinburgh/Royal Mile Exploring the heart.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Culture"
+    conditions="Default.Online,Default.Print"
+    StartSection="false"
+    Link="/Content/D-Cultural-Highlights/Cultural Highlights.htm"
+    BreakType="chapter"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Edinburgh Festivals: A Cultural Extravaganza in the Scottish Capital"
+      Link="/Content/D-Cultural-Highlights/Edinburgh Festivals A Cultural.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+    <TocEntry
+      Title="National Museum of Scotland"
+      Link="/Content/D-Cultural-Highlights/National Museum of Scotland.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+    <TocEntry
+      Title="Scottish National Gallery: Artistic Splendor in Edinburgh"
+      Link="/Content/D-Cultural-Highlights/Scottish National Gallery.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Nature"
+    conditions="Default.Online,Default.Print"
+    StartSection="false"
+    Link="/Content/E-Natural-Beauty/Natural Beauty.htm"
+    BreakType="chapter"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Arthur's Seat: A Majestic Hiking Destination with Panoramic Views"
+      Link="/Content/E-Natural-Beauty/Arthur's Seat A Majestic Hiking.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+    <TocEntry
+      Title="Princes Street Gardens: Urban Oasis at the Heart of Edinburgh"
+      Link="/Content/E-Natural-Beauty/Princes Street Gardens Urban.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Cuisine"
+    conditions="Default.Online,Default.Print"
+    StartSection="false"
+    Link="/Content/F-Scottish-Cuisine/Scottish Cuisine.htm"
+    BreakType="chapter"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Scotch Whisky: A Spirited Journey Through History"
+      Link="/Content/F-Scottish-Cuisine/Scotch Whisky A Spirited Journey.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print" />
+    <TocEntry
+      Title="Traditional Scottish dishes and where to try them"
+      Link="/Content/F-Scottish-Cuisine/Traditional Scottish dishes.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Online,Default.Print"
+      StartSection="false" />
+  </TocEntry>
+</CatapultToc>
