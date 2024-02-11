@@ -261,14 +261,14 @@ div.home-layout1
 
 div.home-layout2
 {
-	padding: 2% 20%;
 	background-color: var(--Lightest);
+	padding: 30px 20%;
 }
 
 div.home-section
 {
 	border-bottom: solid 1px var(--Light);
-	padding: 1% 5% 5%;
+	padding: 2% 5%;
 }
 
 div.home-section:last-of-type
@@ -922,5 +922,32 @@ h1.title_noTOC
 	margin-top: 0;
 	mc-heading-level: 0;
 	color: #000000;
+}
+
+p.linkbox
+{
+	font-size: 12.0pt;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 20pt;
+	letter-spacing: 0.25px;
+	widows: 3;
+	orphans: 3;
+	margin-left: 1em;
+	padding-left: 1em;
+	background-color: #ffffe0;
+	border-left: solid 2px #000000;
+	font-style: italic;
+}
+
+p.learnmore
+{
+	font-size: 20;
+	border: solid 1px #000000;
+	padding: 12px;
+	background: #e0ffff;
+	color: #2f4f4f;
+	float: left;
+	margin-right: 20px;
 }
 

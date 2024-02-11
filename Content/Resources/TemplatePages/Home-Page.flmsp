@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
     </head>
@@ -20,6 +20,7 @@
                             <p class="footer"><MadCap:variable name="General.CityStateZip" />
                             </p>
                             <p class="footer-sub">Created Using MadCap&#160;Flare</p>
+                            <p class="frame-footer-text">ICONS BY Freepik from www.flaticon.com</p>
                         </td>
                         <td class="home-footer-logo" style="text-align: right;">
                             &#160;

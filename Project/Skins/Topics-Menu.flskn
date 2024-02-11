@@ -13,23 +13,57 @@
           <Property
             Name="Width">100%</Property>
           <Property
-            Name="PaddingLeft">15px</Property>
-          <Property
-            Name="PaddingRight">15px</Property>
-          <Property
             Name="Color">var(--Darkest)</Property>
           <Property
-            Name="BackgroundColor">var(--Light)</Property>
+            Name="MarginRight">0px</Property>
+          <Property
+            Name="MarginTop">0px</Property>
+          <Property
+            Name="BackgroundColor">var(--Primary)</Property>
+          <Property
+            Name="PaddingTop">5px</Property>
+          <Property
+            Name="PaddingLeft">5px</Property>
+          <Property
+            Name="PaddingRight">5px</Property>
+          <Property
+            Name="PaddingBottom">5px</Property>
         </Properties>
       </Style>
       <Style
         Name="Menu Item">
         <Properties>
           <Property
-            Name="PaddingTop">3px</Property>
+            Name="FontSize">1em</Property>
           <Property
-            Name="PaddingBottom">3px</Property>
+            Name="PaddingLeft">10px</Property>
+          <Property
+            Name="BackgroundColor">var(--Secondary)</Property>
+          <Property
+            Name="PaddingBottom">10px</Property>
+          <Property
+            Name="PaddingTop">10px</Property>
         </Properties>
+        <Classes>
+          <StyleClass
+            Name="1st Level">
+            <Properties>
+              <Property
+                Name="PaddingTop">3px</Property>
+              <Property
+                Name="PaddingBottom">2px</Property>
+              <Property
+                Name="PaddingLeft">25px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Selected">
+            <Properties>
+              <Property
+                Name="BackgroundColor">var(--Secondary)</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
       </Style>
       <Medium
         Name="Tablet">
@@ -45,10 +79,19 @@
         Name="Menu Item (hover)">
         <Properties>
           <Property
-            Name="BackgroundColor">var(--Primary)</Property>
+            Name="Color">var(--Darkest)</Property>
           <Property
-            Name="Color">var(--Lightest)</Property>
+            Name="BackgroundColor">var(--Primary)</Property>
         </Properties>
+        <Classes>
+          <StyleClass
+            Name="Selected">
+            <Properties>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
       </Style>
     </Styles>
     <Stylesheet></Stylesheet>

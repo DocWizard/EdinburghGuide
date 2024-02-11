@@ -11,9 +11,9 @@
 	--HeroImage: url('../Images/Hero-Image.png');
 	--FontFamily: Arial, Avenir, Myriad;
 	--Primary: #1892C7;
-	--LogoImage: url('../Images/logo_webp.jpg');
-	--LogoImagePrint: url('../Images/logo_webp.jpg');
 	--Secondary: #f0f8ff;
 	--Lightest: #fafafa;
+	--LogoImage: url('../Images/scotland.png');
+	--LogoImagePrint: url('../Images/scotland.png');
 }
 
