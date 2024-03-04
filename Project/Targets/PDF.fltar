@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Edinburgh"
+  Type="PDF"
+  Destinations=""
+  ConditionTagExpression="include[Default.Print], exclude[Default.Online]"
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  MasterToc="/Project/TOCs/Main.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+  BrandingStylesheet="/Content/Resources/Branding/Branding.css"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheetOverride="true">
+  <PrintedOutput
+    CollapseMargins="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <DocumentProperties
+    Title="Welcome to Edinburgh"
+    Author="Maciej Kitlasz"
+    CopyrightStatus="false" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="FileName"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="true" />
+  <Glossaries />
+</CatapultTarget>
